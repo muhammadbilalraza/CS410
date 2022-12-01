@@ -12,7 +12,7 @@ There will be three projects in the repository.
 
 ## [Project 1: NFA to DFA Conversion](https://github.com/muhammadbilalraza/CS410/tree/main/Project1-Impl/)
 
-The project implements 3 main files: 
+The project implements 3 files: 
 
  1. [FileReader.java](https://github.com/muhammadbilalraza/CS410/tree/main/Project1-Impl/src/FileReader.java/)
  2. [SimulateNFAtoDFAConversion.java](https://github.com/muhammadbilalraza/CS410/tree/main/Project1-Impl/src/SimulateNFAtoDFAConversion.java/)
