@@ -8,7 +8,7 @@ There will be three projects in the repository.
 
  - [Project 1: NFA to DFA Conversion](https://github.com/muhammadbilalraza/CS410/tree/main/Project1-Impl/)
  - [Project 2: Converting a Context-Free Grammer (CFG) to Chowmsky Normal Form (CNF)](https://github.com/muhammadbilalraza/CS410/tree/main/CFG%20To%20CNF%20Conversion)
- - Project 3: (Yet to be assigned)
+ - [Project 3: Turing Machine Simulation](https://github.com/muhammadbilalraza/CS410/tree/main/Turing%20Machine/)
 
 ## [Project 1: NFA to DFA Conversion](https://github.com/muhammadbilalraza/CS410/tree/main/Project1-Impl/)
 
