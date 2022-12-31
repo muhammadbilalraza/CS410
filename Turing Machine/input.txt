@@ -1,0 +1,27 @@
+1
+2
+7
+q1 q2 q3 q4 q5 qA qR
+q1
+qA
+qR
+b
+0 X b
+0
+q1 0 b R q2
+q1 b b R qR
+q1 X X R qR
+q2 0 X R q3
+q2 X X R q2
+q2 b b R qA
+q3 X X R q3
+q3 0 0 R q4
+q3 b b L q5
+q4 X X R q4
+q4 0 X R q3
+q4 b b R qR
+q5 0 0 L q5
+q5 X X L q5
+q5 b b R q2
+00
+000
